@@ -2,7 +2,7 @@
 This is a repository for a FullStack Car catalogue app using React, NextJS-13, TailwindCSS, RapidApi 
 
 # App link
-https://car-catalogue-next-js-13-tailwind-css-2339-p8w9uauo7.vercel.app/
+https://react-app-tailwindcss-cardio-leading-iqndhleva.vercel.app/
 
 # Technologies
 - React js
