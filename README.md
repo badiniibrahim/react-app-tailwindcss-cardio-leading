@@ -17,6 +17,9 @@ This is a repository for a React application, Tailwind CSS to highlight my skill
 ![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/react-app-tailwindcss-cardio-leading)
 ![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/react-app-tailwindcss-cardio-leading)
 
+# Figma design link
+https://www.figma.com/community/file/990474735744415719
+
 # App link
 https://react-app-tailwindcss-cardio-leading-iqndhleva.vercel.app/
 
